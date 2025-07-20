@@ -52,6 +52,10 @@ app.post('/api/upload', upload.single('image'), async (req, res) => {
     }
 });
 
+app.get('/api/test', (req, res) => {
+    res.json({ message: 'Hello from the backend!' });
+});
+
 app.listen(port, () => {
     console.log(`Backend server running at http://localhost:${port}`);
 });
