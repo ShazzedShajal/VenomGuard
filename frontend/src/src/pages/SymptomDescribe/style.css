@@ -1,0 +1,106 @@
+.labelCheck{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: darkseagreen;
+}
+.radio-label {
+    color: darkseagreen; /* Default text color */
+    cursor: pointer;
+  }
+
+  /* Change color of selected option */
+  .radio-input {
+    appearance: none; /* Remove the default styling */
+    -webkit-appearance: none; /* For WebKit browsers */
+    margin: 0 8px; /* Add some spacing */
+    width: 20px; /* Set custom size */
+    height: 20px;
+    border: 2px solid #ccc; /* Default border */
+    border-radius: 50%; /* Make it circular */
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    
+  }
+
+  /* Checked state styling */
+  .radio-input:checked {
+    background-color: #4caf50; /* Green fill when selected */
+    border-color: #4caf50; /* Match border color */
+  }
+
+  /* Add a hover effect */
+  .radio-input:hover {
+    border-color: #19b1cf; /* Darken border on hover */
+  }
+
+  /* Focus state styling */
+  .radio-input:focus {
+    outline: 3px solid #4caf50; /* Add green outline */
+  }
+  .radio-input:checked::before {
+    content: "✓"; /* Checkmark inside the button */
+    color: white;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  .label {
+    color: rgb(205, 166, 187); /* Default text color */
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: color 0.3s ease; /* Smooth transition for color change */
+  }
+
+  /* Change the label color when the radio button is checked */
+  .radio-input:checked + .label {
+    color: rgb(24, 198, 33); /* Text color for selected option */
+  }
+  .form-check-label::before {
+    content: '💡 ';
+    font-size: 30px; /* Default emoji symbol */
+  }
+
+
+
+  .btnn {
+    padding: 10px 20px; /* Padding around text */
+    font-size: 16px; /* Font size */
+    color: white; /* Text color */
+    background-color: #4caf50; /* Green background */
+    border: none; /* Remove border */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth hover effect */
+  }
+
+  /* Hover effect */
+  .btn:hover {
+    background-color: #45a049; /* Slightly darker green */
+    transform: translateY(-2px); /* Lift the button slightly */
+  }
+
+  /* Active (pressed) effect */
+  .btn:active {
+    background-color: #3e8e41; /* Even darker green */
+    transform: translateY(2px); /* Slightly push down */
+  }
+  .sub{
+    background-color: #047008;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .sub:hover{
+    background-color: #7d4d84;
+    color:rgb(153, 192, 226)
+  }

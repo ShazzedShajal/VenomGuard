@@ -1,0 +1,72 @@
+/* BlogApp.css */
+
+.appContainer {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .thumbnailContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .thumbnailCard {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .thumbnailCard:hover {
+    transform: scale(1.05);
+  }
+  
+  .thumbnail {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  .contentContainer {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(37, 37, 37, 0.1);
+  }
+  
+  .backButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .backButton:hover {
+    background-color: #0056b3;
+  }
+.backgroud{
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../assets/images/img2.jpg");
+
+    margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */ /* Specify the image URL */
+  background-size: cover; /* Ensure the image covers the entire area */
+  background-repeat: no-repeat; /* Prevent repeating of the image */
+  background-position: center center; /* Center the image */
+  height: 300vh; /* Make sure the body takes up the full viewport height */
+  width: 100vw; 
+}
+  
