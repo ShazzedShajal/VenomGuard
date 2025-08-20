@@ -78,17 +78,15 @@ The system is built for a dual audience: providing immediate, clear guidance for
 
   </tr>
   <tr>
-    <img width="1872" height="886" alt="image" src="https://github.com/user-attachments/assets/1e4b16e8-6d49-40ac-a739-317be35d407f" />
-
-  </tr>
-  <tr>
     <img width="1397" height="881" alt="image" src="https://github.com/user-attachments/assets/d58aab0c-1bfd-4316-9bc8-afe339566ac7" />
     <img width="1384" height="659" alt="image" src="https://github.com/user-attachments/assets/bd422774-c241-4c50-ba13-0604e8158d7b" />
     <img width="1404" height="848" alt="image" src="https://github.com/user-attachments/assets/da06a5c4-2b42-4df2-bfaa-2681cd61f1af" />
-
-
+  </tr>
+  <tr>
+    <img width="1872" height="886" alt="image" src="https://github.com/user-attachments/assets/1e4b16e8-6d49-40ac-a739-317be35d407f" />
 
   </tr>
+  
   <tr>
     <img width="1848" height="778" alt="image" src="https://github.com/user-attachments/assets/a6770fed-5179-483e-8cc3-c082f38ce969" />
 
