@@ -89,11 +89,12 @@ The system is built for a dual audience: providing immediate, clear guidance for
     <img width="1848" height="778" alt="image" src="https://github.com/user-attachments/assets/a6770fed-5179-483e-8cc3-c082f38ce969" />
 
   </tr>
+  ---
   <tr>
     <img width="1849" height="720" alt="image" src="https://github.com/user-attachments/assets/97de17de-6508-4ab8-a66e-6b7218fb0115" />
 
   </tr>
-
+---
   <tr>
     <img width="1263" height="881" alt="image" src="https://github.com/user-attachments/assets/3e84c27a-78c4-41c8-b09f-349b61dddd60" />
   </tr>
