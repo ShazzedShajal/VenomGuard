@@ -102,6 +102,10 @@ The system is built for a dual audience: providing immediate, clear guidance for
 
 
 ---
+<img width="1457" height="918" alt="image" src="https://github.com/user-attachments/assets/41d527b0-23b8-4876-b925-679175ee073b" />
+
+---
+
 
 ## 🏗️ System Architecture
 
