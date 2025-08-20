@@ -128,6 +128,10 @@ User's Browser (React App)  ──>  Vercel Serverless Function (Node.js)  ─�
 *   **Deployment:** Vercel
 
 ---
+## SnakeImage
+Snake Image Dataset: https://universe.roboflow.com/shazzed-hossain-shajal/snakes-in-bangladesh-svd3l 
+---
+
 
 ## 💻 Local Setup & Installation
 
@@ -160,10 +164,5 @@ VITE_ROBOFLOW_MODEL_ENDPOINT="your_model_endpoint/3"
 npm run dev```
 The application should now be running on `http://localhost:5173` (or another port).
 
----
----
 
-## SnakeImage
-Snake Image Dataset: https://universe.roboflow.com/shazzed-hossain-shajal/snakes-in-bangladesh-svd3l
----
 
