@@ -12,7 +12,6 @@ Mymensingh Engineering College (Affiliated with the University of Dhaka)
 
 
 
----
 
 ## 📖 Table of Contents
 
@@ -162,5 +161,9 @@ npm run dev```
 The application should now be running on `http://localhost:5173` (or another port).
 
 ---
+---
+
 ## SnakeImage
 Snake Image Dataset: https://universe.roboflow.com/shazzed-hossain-shajal/snakes-in-bangladesh-svd3l
+---
+
