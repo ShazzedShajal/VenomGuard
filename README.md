@@ -57,26 +57,53 @@ The system is built for a dual audience: providing immediate, clear guidance for
 
 <table>
   <tr>
-    <td align="center"><strong>Homepage</strong></td>
     <img width="1846" height="884" alt="image" src="https://github.com/user-attachments/assets/2b77e0c5-a261-42b7-bc03-ac26028b7fe0" />
 
-    <td align="center"><strong>Three Identification Pathways</strong></td>
+    
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/gK2R0zF.png" alt="Homepage" width="400"/></td>
-    <td><img src="https://i.imgur.com/8Qh1n6L.png" alt="Three Ways" width="400"/></td>
+    <img width="1870" height="888" alt="image" src="https://github.com/user-attachments/assets/b0f297a6-9da5-48b1-ac3b-8eb655dd4f8d" />
+
   </tr>
   <tr>
-    <td align="center"><strong>AI-Powered Result</strong></td>
-    <td align="center"><strong>Medical Information Card</strong></td>
+    <img width="1863" height="884" alt="image" src="https://github.com/user-attachments/assets/11495d2a-345d-415a-86df-9a8defb187d2" />
+
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/L1n7r1T.png" alt="AI Result" width="400"/></td>
-    <td><img src="https://i.imgur.com/M2o8t2s.png" alt="Medical Card" width="400"/></td>
+    <img width="1858" height="896" alt="image" src="https://github.com/user-attachments/assets/5e334587-99c1-4de5-b0a3-2d681066054f" />
+
   </tr>
+  <tr>
+    <img width="1848" height="891" alt="image" src="https://github.com/user-attachments/assets/667f1ac9-d018-4244-84b5-4a9a8f787f36" />
+
+  </tr>
+  <tr>
+    <img width="1872" height="886" alt="image" src="https://github.com/user-attachments/assets/1e4b16e8-6d49-40ac-a739-317be35d407f" />
+
+  </tr>
+  <tr>
+    <img width="1397" height="881" alt="image" src="https://github.com/user-attachments/assets/d58aab0c-1bfd-4316-9bc8-afe339566ac7" />
+    <img width="1384" height="659" alt="image" src="https://github.com/user-attachments/assets/bd422774-c241-4c50-ba13-0604e8158d7b" />
+    <img width="1404" height="848" alt="image" src="https://github.com/user-attachments/assets/da06a5c4-2b42-4df2-bfaa-2681cd61f1af" />
+
+
+
+  </tr>
+  <tr>
+    <img width="1848" height="778" alt="image" src="https://github.com/user-attachments/assets/a6770fed-5179-483e-8cc3-c082f38ce969" />
+
+  </tr>
+  <tr>
+    <img width="1849" height="720" alt="image" src="https://github.com/user-attachments/assets/97de17de-6508-4ab8-a66e-6b7218fb0115" />
+
+  </tr>
+
+  <tr>
+    <img width="1263" height="881" alt="image" src="https://github.com/user-attachments/assets/3e84c27a-78c4-41c8-b09f-349b61dddd60" />
+  </tr>
+  
 </table>
 
-*(Note: These image links are placeholders. You should upload your screenshots to your GitHub repository and link them directly for best results.)*
 
 ---
 
