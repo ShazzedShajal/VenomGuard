@@ -2,9 +2,7 @@
 
 ###  Snake Antivenom Prediction Using Computer Vision and Automated Machine Learning
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/VenomGuard)
-![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel)
+
 
 A final year project by S.M. Shazzed Hossain Shajal.  
 Supervisor: Abdur Rouf  
@@ -60,6 +58,8 @@ The system is built for a dual audience: providing immediate, clear guidance for
 <table>
   <tr>
     <td align="center"><strong>Homepage</strong></td>
+    <img width="1846" height="884" alt="image" src="https://github.com/user-attachments/assets/2b77e0c5-a261-42b7-bc03-ac26028b7fe0" />
+
     <td align="center"><strong>Three Identification Pathways</strong></td>
   </tr>
   <tr>
