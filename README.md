@@ -23,9 +23,8 @@ Mymensingh Engineering College (Affiliated with the University of Dhaka)
 - [System Architecture](#-system-architecture)
 - [Technology Stack](#-technology-stack)
 - [Local Setup & Installation](#-local-setup--installation)
-- [The Team](#-the-team)
 - [Acknowledgments](#-acknowledgments)
-- [License](#-license)
+- [Snake Image Data Set](#-SnakeImage)
 
 ---
 
@@ -156,7 +155,6 @@ VITE_ROBOFLOW_API_KEY="your_api_key_here"
 # Your Roboflow model endpoint (e.g., project-name/version)
 VITE_ROBOFLOW_MODEL_ENDPOINT="your_model_endpoint/3"
 ```
-*(Note: For our serverless function setup, the `VITE_` prefix is for local development with Vite. On Vercel, you will set these without the prefix.)*
 
 **4. Run the development server:**
 ```bash
@@ -164,3 +162,5 @@ npm run dev```
 The application should now be running on `http://localhost:5173` (or another port).
 
 ---
+## SnakeImage
+Snake Image Dataset: https://universe.roboflow.com/shazzed-hossain-shajal/snakes-in-bangladesh-svd3l
