@@ -1,5 +1,16 @@
 # VenomGuard ✨
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/Vite-7-purple?logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-22-green?logo=node.js)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
+![Roboflow](https://img.shields.io/badge/Roboflow-RF--DETR-orange)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+### AI-powered Snake Species Identification & Clinical Decision Support System
+
 ###  Snake Antivenom Prediction Using Computer Vision and Automated Machine Learning
 
 
