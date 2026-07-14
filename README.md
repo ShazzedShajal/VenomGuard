@@ -9,6 +9,14 @@
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-RF--DETR-orange)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 ### AI-powered Snake Species Identification & Clinical Decision Support System
 
 ###  Snake Antivenom Prediction Using Computer Vision and Automated Machine Learning
